@@ -1,0 +1,37 @@
+body{
+	background-image: url(25202.jpg);
+	padding: 0;
+	margin: 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+div{
+	background-color: black;
+}
+ul{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	overflow:hidden;
+	list-style-type: none;
+}
+li{
+	float: left;
+	width: 150px;
+}
+
+li a{
+	text-align: center;
+	font-family: verdana;
+	display: block;
+	padding: 11px 10px;
+	transition: all 0.5s linear;
+	color: white;
+	}
+
+li a:hover{
+	opacity: 1;
+	padding: 14px 0;
+	color: orange;
+	border-bottom: 3px solid #6200ea; 
+	}

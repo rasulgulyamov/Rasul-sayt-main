@@ -1,0 +1,35 @@
+body{
+	background-image: url(25202.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+a{
+	border-right: 15px;
+	background-color: blue;
+	text-align: center;
+	font-family: verdana;
+	font-style: initial;
+	display: block;
+	padding: 11px 10px;
+	transition: all 0.7s linear;
+	color: white;
+	background: linear-gradient(135deg,yellow, red);
+	border-radius: 20px 20px 20px 20px;
+	text-shadow: 4px 0px 2px aqua;
+	box-shadow: 0px 0px 10px  red;
+}
+#a3{
+	border-right: 15px;
+	background-color: blue;
+	text-align: center;
+	font-family: verdana;
+	font-style: initial;
+	display: block;
+	padding: 11px 10px;
+	transition: all 0.7s linear;
+	color: white;
+	background: linear-gradient(135deg,blue, black, white);
+	border-radius: 20px 20px 20px 20px;
+	text-shadow: 4px 0px 2px aqua;
+	box-shadow: 0px 0px 10px  green;
+}
